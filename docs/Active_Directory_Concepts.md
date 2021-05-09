@@ -30,7 +30,7 @@
 
 ### _1) AD DS Schema:_
 
-	• rule book or blueprint definitions of every type of object that can be created in AD 
+	• Rule book or blueprint definitions of every type of object that can be created in AD 
 	• Enforces rules about regarding object creation and configuration. 
 	• Object types are: 
 		○ Class Object : What objects that can be created in the directory: eg user, computer 
@@ -38,7 +38,7 @@
 
 ### _2) Domains:_
 
-	• used to group and manage objects in an organization 
+	• Used to group and manage objects in an organization 
 	• An administrative boundary for applying policies to groups of objects 
 	• A replication boundary to replicate data between domain controllers 
 	• An authentication and authorization boundary that provides a way to limit the scope of access to resources
@@ -81,3 +81,10 @@
 	• Groups - Used to simplify the administration of access control, 
 	• Computers - Enables authentication and auditing of computer access to resources,
 	• Printers - Used to simplify the process of locating and connecting to printers
+	
+## In Summary, some key takeaways!
+
+	• Grouping of objects == Domains 
+	• Multiple domains == trees 
+	• Multiple trees == forest 
+	• OUs == consist of objects == all the elements of the domains

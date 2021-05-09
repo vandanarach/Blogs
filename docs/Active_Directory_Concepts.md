@@ -78,7 +78,7 @@
 	Examples: 
 	• Users- Enables network resource access for a user, 
 	• InetOrgPerson - similar to a user account, used for compatibility with other directory services, 
-	• Contacts - Used primarily to assign email addresses to external users, does not enable nw access, 
+	• Contacts - Used primarily to assign email addresses to external users, does not enable network access, 
 	• Groups - Used to simplify the administration of access control, 
 	• Computers - Enables authentication and auditing of computer access to resources,
 	• Printers - Used to simplify the process of locating and connecting to printers

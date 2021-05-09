@@ -2,7 +2,7 @@
 
 ## **Overview:**
 
-	• Important for ethical hacking 
+	• Active Directory concepts are important for ethical hacking 
 	• Like a phone book: Stores all kinds of info and these info can be called objects - such as computers, users and printers 
 	• Printers and Linux machines, firewalls, non-windows machines etc can authenticate to AD via Radius and LDAP. 
 	• Authentication on windows based devices using AD uses Kerberos tickets 
@@ -53,11 +53,11 @@
 
 ### _4) Forests: A collection of one or more domain trees_
 
-	• Forests: Share a common schema 
-	• share a common config partition 
-	• share a common global catalogue to enable searching 
-	• enable trust between all domains in a forest 
-	• share the enterprise admins and the schema admins groups
+	• Share a common schema 
+	• Share a common config partition 
+	• Share a common global catalogue to enable searching 
+	• Enable trust between all domains in a forest 
+	• Share the enterprise admins and the schema admins groups
 
 ### _5) OUs: Organizational units are AD containers that contain users, groups, computers and other OUs_
 
@@ -71,11 +71,12 @@
 		○ 1) Directional: The trust direction flows from the trusting domain to the trusted domain 
 		○ 2) Transitive: The trust relationship is extended beyond a 2-domain trust to include the other trusted domains
 	• All domains in a forest trust all other domains in the forest 
-	• Trusts can extend outside the forest Also called cross-domains
+	• Trusts can extend outside the forest also called as cross-domains
 
 ### _7) Objects:_
 
-	• Examples: Users- Enables network resource access for a user, 
+	Examples: 
+	• Users- Enables network resource access for a user, 
 	• InetOrgPerson - similar to a user account, used for compatibility with other directory services, 
 	• Contacts - Used primarily to assign email addresses to external users, does not enable nw access, 
 	• Groups - Used to simplify the administration of access control, 

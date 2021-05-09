@@ -83,7 +83,7 @@
 	• Computers - Enables authentication and auditing of computer access to resources,
 	• Printers - Used to simplify the process of locating and connecting to printers
 	
-## In Summary, some key takeaways!
+## Some key takeaways!
 
 	• Grouping of objects == Domains 
 	• Multiple domains == trees 

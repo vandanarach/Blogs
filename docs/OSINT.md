@@ -12,10 +12,10 @@ An excerpt below from the book "Open Source Intelligence Methods and Tools: A Pr
 
 """According to the NATO Open Source Intelligence Handbook V1.2 published in 2001, there are four categories of open information and intelligence:
 
-	• Open Source Data (OSD): This is generic data coming from a primary source. Examples include satellite images, telephone call data and metadata, datasets, survey data, photographs, and audio or video recordings that have recorded an event.
-	• Open source information (OSINF) : This is generic data that has undergone some filtering first to meet a specific criterion or need; this data can also be called a secondary source. Examples include books about a specific subject, articles, dissertations, artworks, and interviews.
-	• Open source intelligence (OSINT) : This includes all the information that has been discovered, filtered, and designated to meet a specific need or purpose. This information can be used directly in any intelligence context. OSINT can be defined in a nutshell as the output of open source material processing.
-	• Validated OSINT (OSINT-V): This is OSINT with a high degree of certainty; the data should be confirmed (verified) using a non-OSINT source or from a highly reputable OSINT source. This is essential, as some outside adversaries may spread inaccurate OSINT information with the intent to mislead OSINT analysis. A good example of this is when a TV station broadcasts live the arrival of a president to another country; such information is OSINT, but it has a large degree of certainty."""
+**Open Source Data (OSD)**: This is generic data coming from a primary source. Examples include satellite images, telephone call data and metadata, datasets, survey data, photographs, and audio or video recordings that have recorded an event.
+**Open source information (OSINF)** : This is generic data that has undergone some filtering first to meet a specific criterion or need; this data can also be called a secondary source. Examples include books about a specific subject, articles, dissertations, artworks, and interviews.
+**Open source intelligence (OSINT)** : This includes all the information that has been discovered, filtered, and designated to meet a specific need or purpose. This information can be used directly in any intelligence context. OSINT can be defined in a nutshell as the output of open source material processing.
+**Validated OSINT (OSINT-V)**: This is OSINT with a high degree of certainty; the data should be confirmed (verified) using a non-OSINT source or from a highly reputable OSINT source. This is essential, as some outside adversaries may spread inaccurate OSINT information with the intent to mislead OSINT analysis. A good example of this is when a TV station broadcasts live the arrival of a president to another country; such information is OSINT, but it has a large degree of certainty."""
 
 ## **OSINT Techniques:**
 

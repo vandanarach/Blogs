@@ -13,8 +13,11 @@ An excerpt below from the book "Open Source Intelligence Methods and Tools: A Pr
 """According to the NATO Open Source Intelligence Handbook V1.2 published in 2001, there are four categories of open information and intelligence:
 
 **Open Source Data (OSD)**: This is generic data coming from a primary source. Examples include satellite images, telephone call data and metadata, datasets, survey data, photographs, and audio or video recordings that have recorded an event.
+
 **Open source information (OSINF)** : This is generic data that has undergone some filtering first to meet a specific criterion or need; this data can also be called a secondary source. Examples include books about a specific subject, articles, dissertations, artworks, and interviews.
+
 **Open source intelligence (OSINT)** : This includes all the information that has been discovered, filtered, and designated to meet a specific need or purpose. This information can be used directly in any intelligence context. OSINT can be defined in a nutshell as the output of open source material processing.
+
 **Validated OSINT (OSINT-V)**: This is OSINT with a high degree of certainty; the data should be confirmed (verified) using a non-OSINT source or from a highly reputable OSINT source. This is essential, as some outside adversaries may spread inaccurate OSINT information with the intent to mislead OSINT analysis. A good example of this is when a TV station broadcasts live the arrival of a president to another country; such information is OSINT, but it has a large degree of certainty."""
 
 ## **OSINT Techniques:**
@@ -29,23 +32,23 @@ Collection of Open Source Intelligence falls into two broad categories: **Passiv
 
 One very informative and useful OSINT framework website is give below. OSINT Framework is an open source intelligence gathering framework that helps security professionals for performing automated footprinting and reconnaissance, OSINT research, and intelligence gathering. It is focused on gathering information from free tools or resources. This framework includes a simple web interface that lists various OSINT tools arranged by category and is shown as an OSINT tree structure on the web interface.
 
-https://osintframework.com/
+[OSINT Framework](https://osintframework.com/)
 
 The above website is courtesy of @jnordine (twitter handle) and the project is hosted at the below github location:
 
- https://github.com/lockfale/osint-framework
+ [Github link to the project](https://github.com/lockfale/osint-framework)
 
 Shodan is an OSINT search engine that can search for keywords and also allows to search based on filters. It is a search engine meant for IOT Devices.
 
-www.shodan.io
+[Shodan](www.shodan.io)
 
 Another such search engine for IOT devices is Censys:
 
-www.censys.io
+[Censys](www.censys.io)
 
 Google hacking or Google Dorking is a url filtering methodology using advanced google search queries to search information about a target or locate a target. There are certain tools available that can be used to make use of Google Hacking for OSINT gathering. The below website has a google hacking database which is a collection of strings or regular expressions that can be used to gather information on  Google.
 
-https://www.exploit-db.com/google-hacking-database
+[Exploit-db](https://www.exploit-db.com/google-hacking-database)
 
 People search websites provide information about general public and accessing such information from these social networking websites can lead us to information related to a particular target. Different social networking websites provide different aspects to the life of a particular target.
  

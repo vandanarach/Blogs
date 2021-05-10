@@ -55,4 +55,4 @@ People search websites provide information about general public and accessing su
 In conclusion, there is a lot of information out there on the Internet and it is left to the discretion of the end user to make a responsible decision to use the information in a legally and ethically correct way!
 
 
-[Welcome Page](https://vandanarach.github.io/Blogs/welcome)
+[Home Page](https://vandanarach.github.io/Blogs/welcome)

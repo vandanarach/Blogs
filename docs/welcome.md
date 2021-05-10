@@ -1,7 +1,7 @@
 # **Blogs by Vandana Racherla**
 ## **Welcome to my Blog pages**
 
-*These blogs are all created based on my learnings from being a student at HackerU. Special thanks for and mention of my instructor at HackerU, Mr. Azaz Ahmed Dobiwala. Thanks Azaz sir!!*
+*These blogs are all created based on my learnings from being a student at HackerU. Special thanks to and mention of my instructor at HackerU, Mr. Azaz Ahmed Dobiwala. Thanks Azaz sir!!*
 
 
 *Hope you all enjoy the blogs!*

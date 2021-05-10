@@ -90,4 +90,4 @@
 	• Multiple trees == forest 
 	• OUs == consist of objects == all the elements of the domains
 	
-[Welcome Page](https://vandanarach.github.io/Blogs/welcome)
+[Home Page](https://vandanarach.github.io/Blogs/welcome)

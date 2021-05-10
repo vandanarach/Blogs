@@ -14,7 +14,7 @@
 ### *List of Blogs*
 
 1. [Active Directory Concepts](https://vandanarach.github.io/Blogs/Active_Directory_Concepts)
-2. [What is Open Source Intelligence](https://vandanarach.github.io/Blogs/OSINT)
+2. [What is Open Source Intelligence?](https://vandanarach.github.io/Blogs/OSINT)
 
 
 

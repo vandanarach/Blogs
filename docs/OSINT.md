@@ -8,7 +8,7 @@ The unrestricted access to the Internet (the world wide web) is one reason OSINT
 
 ## **Categories of Open Information and Intelligence:**
 
-An excerpt below from the book "Open Source Intelligence Methods and Tools: A Practical Guide to Online Intelligence by Nihad A. Hassan; Rami Hijazi" on categories of information and intelligence is given below.
+An excerpt below from the book "Open Source Intelligence Methods and Tools: A Practical Guide to Online Intelligence by Nihad A. Hassan; Rami Hijazi" on categories of information and intelligence:
 
 """According to the NATO Open Source Intelligence Handbook V1.2 published in 2001, there are four categories of open information and intelligence:
 

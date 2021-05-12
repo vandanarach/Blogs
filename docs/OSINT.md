@@ -22,7 +22,7 @@ An excerpt below from the book "Open Source Intelligence Methods and Tools: A Pr
 
 ## **OSINT Techniques:**
 
-Collection of Open Source Intelligence falls into two broad categories: **Passive** and **Active**.
+Collection of Open Source Intelligence techniques fall into two broad categories: **Passive** and **Active**.
 
 **Passive**: This is the most common form of OSINT gathering. In this category the target is not knowledgeable about your intelligence gathering activities. The search is anonymously performed and there is not direct interaction between the target and the agent performing the information gathering task.
 
